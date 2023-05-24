@@ -4,11 +4,14 @@ Welcome to Java OO Tasks: Weekly Code Showcase Repo! Here you will find a collec
 ## `Weekly Programming Tasks`
 1. [T01 | Transaksi](https://github.com/Estomihi100103/Object-oriented-programming-OOP-task/tree/main/2223-ge-t01-transaksi-Estomihi100103) 
 2. [T02 | Multi Transaksi](https://github.com/Estomihi100103/Object-oriented-programming-OOP-task/tree/main/2223-ge-t02-multi-transaksi-Estomihi100103) 
-3. 🚧 on progress
+3. [T03 | account-management](https://github.com/Estomihi100103/Object-oriented-programming-OOP-task/tree/main/2223-ge-t03-account-management-Estomihi100103)
+4. [T04 | Transfer](https://github.com/Estomihi100103/Object-oriented-programming-OOP-task/tree/main/2223-ge-t04-transfer-Estomihi100103)
+5. 🚧 on progress
 
 ## `Programming Quiz Tasks`
 1. [Q01 | Quiz for Mid Exam](https://github.com/Estomihi100103/Object-oriented-programming-OOP-task/tree/main/2223-ge-q01-detailed-Estomihi100103)
 2. 🚧 on progress
 
 ## `Programming Exam Tasks`
-1. 🚧 on progress
+1. [M01 | Mid Exam](https://github.com/Estomihi100103/Object-oriented-programming-OOP-task/tree/main/2223-ge-m01-advanced-transactions-Estomihi100103)
+2. 🚧 on progress
