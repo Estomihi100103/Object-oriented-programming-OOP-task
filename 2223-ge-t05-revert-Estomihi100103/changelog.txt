@@ -1,0 +1,6 @@
+Mencoba menyelesaikan case pertama
+Memperbaiki lagi
+Memperbaiki lagi 
+Menangani kondisi ketika account.getAmount lebih kecil dari transaction.getAmount
+Merapikan kode
+Menerapkan metode nested class pada solusi revert Transaction
