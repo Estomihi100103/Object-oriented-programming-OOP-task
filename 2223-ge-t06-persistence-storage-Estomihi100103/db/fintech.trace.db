@@ -1,0 +1,6 @@
+2023-05-16 13:58:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ACCOUNT" not found (this database is empty); SQL statement:
+SELECT 1 FROM account [42104-212]
+2023-05-16 13:58:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTION_ENTITY" not found; SQL statement:
+SELECT 1 FROM transaction_entity [42102-212]
